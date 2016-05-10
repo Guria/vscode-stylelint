@@ -21,7 +21,8 @@
   ],
   "activationEvents": [
     "onLanguage:css",
-    "onLanguage:sass"
+    "onLanguage:sass",
+    "onLanguage:postcss"
   ],
   "main": "extension.js",
   "contributes": {
